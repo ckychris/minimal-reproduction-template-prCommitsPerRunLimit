@@ -6,8 +6,8 @@ settings:
 
 devDependencies:
   playwright:
-    specifier: 1.45.2
-    version: 1.45.2
+    specifier: 1.45.3
+    version: 1.45.3
   stylelint:
     specifier: ^16.7.0
     version: 16.8.1(typescript@4.9.5)
@@ -596,8 +596,8 @@ packages:
     hasBin: true
     dev: true
 
-  /playwright@1.45.2:
-    resolution: {integrity: sha512-ReywF2t/0teRvNBpfIgh5e4wnrI/8Su8ssdo5XsQKpjxJj+jspm00jSoz9BTg91TT0c9HRjXO7LBNVrgYj9X0g==}
+  /playwright@1.45.3:
+    resolution: {integrity: sha512-QhVaS+lpluxCaioejDZ95l4Y4jSFCsBvl2UZkpeXlzxmqS+aABr5c82YmfMHrL6x27nvrvykJAFpkzT2eWdJww==}
     engines: {node: '>=18'}
     hasBin: true
     dependencies:
