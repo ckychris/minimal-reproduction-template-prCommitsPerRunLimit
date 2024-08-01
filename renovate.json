@@ -1,1 +1,4 @@
-{}
+{
+  "prCommitsPerRunLimit": 1,
+  "dependencyDashboard": true
+}
